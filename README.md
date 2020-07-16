@@ -6,8 +6,8 @@ Here I am working with a modified version of a database called Chinook. The Chin
 
 > ### Goal: The Chinook record store has just signed a deal with a new record label, and I've been tasked with selecting the first three albums that will be added to the store, from a list of four. 
 
-All four albums are by artists that don't have any tracks in the store right now - just the artist names, and the genre of music they produce. The record label specializes in artists from the USA, and they have given Chinook some money to advertise the new albums in the USA, so we're interested in finding out which genres sell the best in the USA.
-* I wrote a query to find out which genres sell the most tracks in the USA, write up a summary of your findings, and make a recommendation for the three artists whose albums we should purchase for the store.
+All four albums are by artists that don't have any tracks in the store right now - just the artist names, and the genre of music they produce. The record label specializes in artists from the USA, and they have given Chinook some money to advertise the new albums in the USA, so I'm interested in finding out which genres sell the best in the USA.
+* I wrote a query to find out which genres sell the most tracks in the USA, write up a summary of your findings, and make a recommendation for the three artists whose albums my company should purchase for the store.
 
 Each customer for the Chinook store gets assigned to a sales support agent within the company when they first make a purchase. You have been asked to analyze the purchases of customers belonging to each employee to see if any sales support agent is performing either better or worse than the others.
 * I wrote a query that finds the total dollar amount of sales assigned to each sales support agent within the company and added any extra attributes for that employee that I found to be relevant to the analysis.
