@@ -1,6 +1,6 @@
 # Answering Business Questions using SQL
 
-[View here!](https://nbviewer.jupyter.org/github/epatter1/chinook_DB/blob/master/Answering%20Business%20Questions%20using%20SQL.ipynb) :eyes:
+**[View here!](https://nbviewer.jupyter.org/github/epatter1/chinook_DB/blob/master/Answering%20Business%20Questions%20using%20SQL.ipynb)** :eyes:
 
 Here I am working with a modified version of a database called Chinook. The Chinook database contains information about a fictional digital music shop - kind of like a mini-iTunes store. The Chinook database contains information about the artists, songs, and albums from the music shop, as well as information on the shop's employees, customers, and the customers purchases.
 
